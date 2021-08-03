@@ -1,7 +1,7 @@
 {
-  "name": "11strap",
-  "version": "0.0.1",
-  "description": "simple 11ty and Bootstrap5 boilerplate",
+  "name": "almdev-blog",
+  "version": "1.0.0",
+  "description": "simple blog using a 11ty and Bootstrap5 boilerplate",
   "license": "MIT",
   "private": "true",
   "publishConfig": {
